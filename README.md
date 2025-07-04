@@ -55,11 +55,11 @@ Aplikasi ini merupakan sistem **desktop berbasis Java** untuk membantu PT Jaya d
 
 | Tampilan | Deskripsi |
 |----------|-----------|
-| ![](github_image/halaman_signup_pt_jaya.png) | Halaman *Sign Up* untuk pengguna baru |
-| ![](github_image/halaman_dashboard_pt_jaya.png) | Halaman Dashboard |
-| ![](github_image/halaman_datapengguna_pt_jaya.png) | Daftar pengguna dari database |
-| ![](github_image/halaman_stokbarang_pt_jaya.png) | Modul stok barang dengan perhitungan harga otomatis |
-| ![](github_image/halaman_laporan_pt_jaya.png) | Cetak laporan stok barang menggunakan JasperViewer |
+| ![](src/github_image/halaman_signup_pt_jaya.png) | Halaman *Sign Up* untuk pengguna baru |
+| ![](src/github_image/halaman_dashboard_pt_jaya.png) | Halaman Dashboard |
+| ![](src/github_image/halaman_datapengguna_pt_jaya.png) | Daftar pengguna dari database |
+| ![](src/github_image/halaman_stokbarang_pt_jaya.png) | Modul stok barang dengan perhitungan harga otomatis |
+| ![](src/github_image/halaman_laporan_pt_jaya.png) | Cetak laporan stok barang menggunakan JasperViewer |
 
 ---
 
